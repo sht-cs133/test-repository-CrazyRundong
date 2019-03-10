@@ -4,6 +4,7 @@
 
 #include <random>
 #include <vector>
+#include <algorithm>
 
 #include "random_generator.hpp"
 
